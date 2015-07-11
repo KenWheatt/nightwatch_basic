@@ -1,0 +1,8 @@
+#MAC
+.DS_Store
+
+#NODE
+node_modules
+
+#NIGHTWATCH
+reports
