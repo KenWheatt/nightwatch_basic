@@ -26,7 +26,11 @@ Reference: http://nightwatchjs.org/guide#settings-file
 RESOURCES
 
 https://www.npmjs.com/package/npm
+
 https://www.npmjs.com/package/gulp
+
 https://www.npmjs.com/package/gulp-nightwatch
+
 https://www.npmjs.com/package/selenium-standalone
+
 http://nightwatchjs.org/
